@@ -186,6 +186,10 @@ h2 {
   #title {
     text-align: center;
   }
+  
+  #footer {
+    padding: 5rem 8rem 2rem;
+  }
 
   .nav-item {
     text-align: left;
@@ -204,8 +208,8 @@ h2 {
     padding: 3rem 7rem 0rem;
   }
   .footer-link {
-    margin-left: 0.4rem;
-    margin-right: 0.4rem;
-    font-size: 3rem;
+    margin-left: 0.1rem;
+    margin-right: 0.1rem;
+    font-size: 1.5rem;
   }
 }
